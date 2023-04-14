@@ -86,4 +86,7 @@ header {
         padding-top: 2rem;
         height: 110vh;
    } 
+   .header__socials{
+    bottom: 5rem;
+   }
 }
