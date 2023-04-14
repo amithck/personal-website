@@ -81,7 +81,7 @@ header {
     }
 }
 
-@media screen and (max-height:14in) {
+@media screen and (max-height:7in) {
    header{
         padding-top: 2rem;
         height: 110vh;
