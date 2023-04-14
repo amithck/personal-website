@@ -80,3 +80,10 @@ header {
         display: none;
     }
 }
+
+@media screen and (max-height:14in) {
+   header{
+        padding-top: 2rem;
+        height: 110vh;
+   } 
+}
