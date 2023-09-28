@@ -14,7 +14,7 @@ const About = () => {
           <article className='about__card'>
               <BiBookOpen className='about__icon'/>
               <h5>Education</h5>
-              <small>Studied Computer Science and Engineering at Bangalore Institute of Techonolgy with CGPA 8.25</small>
+              <small>Studied Computer Science and Engineering at <br></br> Bangalore Institute of Techonolgy with CGPA 8.25</small>
             </article>
             <article className='about__card'>
               <MdOutlineComputer className='about__icon'/>
