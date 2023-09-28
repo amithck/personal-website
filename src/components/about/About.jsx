@@ -2,6 +2,7 @@ import React from 'react'
 import './about.css'
 import {MdOutlineComputer} from 'react-icons/md'
 import {BsMusicNoteBeamed} from 'react-icons/bs'
+import {BiBookOpen} from 'react-icons/bi'
 
 const About = () => {
   return (
@@ -10,6 +11,11 @@ const About = () => {
       <h2>About Me</h2>
         <div className="about__content">
           <div className="about__cards">
+          <article className='about__card'>
+              <BiBookOpen className='about__icon'/>
+              <h5>Education</h5>
+              <small>Studied Computer Science and Engineering at Bangalore Institute of Techonolgy with CGPA 8.25</small>
+            </article>
             <article className='about__card'>
               <MdOutlineComputer className='about__icon'/>
               <h5>Programming</h5>
