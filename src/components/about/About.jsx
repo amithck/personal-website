@@ -24,7 +24,7 @@ const About = () => {
             <article className='about__card'>
               <BsMusicNoteBeamed className='about__icon'/>
               <h5>Music</h5>
-              <small>Pianist and Harmonicist. President of the College Music Club.</small>
+              <small>Pianist and Harmonicist. President of the College<br/> Music Club.</small>
             </article>
           </div>
           <p>
