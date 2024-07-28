@@ -14,7 +14,7 @@ const About = () => {
           <article className='about__card'>
               <BiBookOpen className='about__icon'/>
               <h5>Education</h5>
-              <small>Studied Computer Science and Engineering at <br/> Bangalore Institute of Techonolgy with CGPA 8.25</small>
+              <small>Studied Computer Science and Engineering at <br/> Bangalore Institute of Techonolgy with CGPA 8.28</small>
             </article>
             <article className='about__card'>
               <MdOutlineComputer className='about__icon'/>
@@ -28,7 +28,7 @@ const About = () => {
             </article>
           </div>
           <p>
-            A budding computer science engineer with an interest in systems engineering and machine learning. Seeking to challenge and cultivate his skills in a way as to advance the development and growth of the organization as well as field of work.
+            A budding computer science engineer with an interest in cyber security and machine learning. Seeking to challenge and cultivate his skills in a way as to advance the development and growth of the organization as well as field of work.
           </p>
           <a href="#contact" className='btn btn'>Contact Me</a>
         </div>
